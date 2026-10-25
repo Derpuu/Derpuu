@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Derpuu
+- 👋 Hi, I’m @Derpuu, Name's Dawid
 - 👀 I’m interested in Programming, Gaming, Cosplay and D&D
 - 🌱 I’m currently learning: JS, Python, C++
 - 📫 How to reach me:
